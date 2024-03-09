@@ -6,7 +6,7 @@ sonar:
  
 # Project identification
 projectKey: "CC"
-projectName: "CC"
+projectName: "cloudcomputingassignment"
 #projectVersion: "1.0"
  
 # Sources
