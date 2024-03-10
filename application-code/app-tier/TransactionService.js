@@ -22,7 +22,7 @@ function getAllTransactions(callback){
     con.query(mysql, function(err,result){
         if (err) throw err;
         console.log("Getting all transactions...");
-        return(callback(result));
+        return(callback(result))
     });
 }
 
